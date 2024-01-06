@@ -12,6 +12,8 @@ This project is a drawing and model file for the competition
 
 ## 模型整体爆炸视图
 
+https://github.com/ptsfdtz/design-for-ICT/assets/148436840/98442ad5-a250-4555-abaa-32a9f96ef534
+
 ## 总览图
 
 <img src="/images/总视图.png" alt="总览图" width="800"/>
